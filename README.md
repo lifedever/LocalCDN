@@ -10,16 +10,19 @@ build your onw local cdn to access website fast!
 - 127.0.0.1 ajax.googleapis.com
 
 # How to use
-## 1. 将项目clone下来，并运行
+## 1. 将项目clone下来
 ```bash
 git clone git@github.com:gefangshuai/LocalCDN.git
-cd LocalCDN/build
 ```
-double click `run.bat`
+## 2 双击startup.bat运行
 
-## 2. 修改本地host文件
+## 3. 修改本地host文件
 
 进到`C:\Windows\System32\drivers\etc`目录下，打开`hosts`文件，将`LocalCDN/build/hosts.txt`中的内容，复制到你自己的hosts文件中
+
+## 4. 关闭服务
+
+双击`stop.bat`
 
 over！
 
