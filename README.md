@@ -6,7 +6,7 @@ build your onw local cdn to access website fast!
 
 [开发手册](https://github.com/gefangshuai/LocalCDN/wiki)
 
-# 已添加的资源列表
+# 已添加的资源列表(欢迎提供资源，持续更新！)
 - 127.0.0.1 ajax.googleapis.com
 
 # How to use
