@@ -1,1 +1,0 @@
-java -jar LocalCDN-1.0.0.jar
