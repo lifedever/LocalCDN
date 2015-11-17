@@ -1,0 +1,2 @@
+# 将本文件中的内容复制到C:\Windows\System32\drivers\etc\hosts中
+127.0.0.1 ajax.googleapis.com
